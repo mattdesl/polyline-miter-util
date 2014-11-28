@@ -1,6 +1,6 @@
 {
   "name": "polyline-miter-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "low level utils for polyline miter joins",
   "main": "index.js",
   "license": "MIT",
